@@ -2,10 +2,10 @@
 Console.WriteLine("Введите свое трёхзначное число");
 
 int number = Convert.ToInt32(Console.ReadLine());
-int numberOfDigit=DigitNumber(number);// Entered number should be thee-digit number. Let's check it.
+int numberOfDigit=DigitNumber(number);
 if (numberOfDigit ==3)
    {
-    int result = number / 10 % 10; // Find the second digit of the number
+    int result = number / 10 % 10; 
     Console.WriteLine("Второй цифрой числа "+ number+ " является " + result);
    }
 else
@@ -14,7 +14,7 @@ else
    }
 
 
-int DigitNumber (int number)// Function to find number of digit
+int DigitNumber (int number)
 {
 int numberOfDigit=0;
 double buffer = number;
