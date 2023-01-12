@@ -1,0 +1,15 @@
+D:\Личное\GeekBrains\HOMEWORK\hw1\bin\Debug\net6.0\hw1.exe
+D:\Личное\GeekBrains\HOMEWORK\hw1\bin\Debug\net6.0\hw1.deps.json
+D:\Личное\GeekBrains\HOMEWORK\hw1\bin\Debug\net6.0\hw1.runtimeconfig.json
+D:\Личное\GeekBrains\HOMEWORK\hw1\bin\Debug\net6.0\hw1.dll
+D:\Личное\GeekBrains\HOMEWORK\hw1\bin\Debug\net6.0\hw1.pdb
+D:\Личное\GeekBrains\HOMEWORK\hw1\obj\Debug\net6.0\hw1.csproj.AssemblyReference.cache
+D:\Личное\GeekBrains\HOMEWORK\hw1\obj\Debug\net6.0\hw1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Личное\GeekBrains\HOMEWORK\hw1\obj\Debug\net6.0\hw1.AssemblyInfoInputs.cache
+D:\Личное\GeekBrains\HOMEWORK\hw1\obj\Debug\net6.0\hw1.AssemblyInfo.cs
+D:\Личное\GeekBrains\HOMEWORK\hw1\obj\Debug\net6.0\hw1.csproj.CoreCompileInputs.cache
+D:\Личное\GeekBrains\HOMEWORK\hw1\obj\Debug\net6.0\hw1.dll
+D:\Личное\GeekBrains\HOMEWORK\hw1\obj\Debug\net6.0\refint\hw1.dll
+D:\Личное\GeekBrains\HOMEWORK\hw1\obj\Debug\net6.0\hw1.pdb
+D:\Личное\GeekBrains\HOMEWORK\hw1\obj\Debug\net6.0\hw1.genruntimeconfig.cache
+D:\Личное\GeekBrains\HOMEWORK\hw1\obj\Debug\net6.0\ref\hw1.dll
